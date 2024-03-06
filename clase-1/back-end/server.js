@@ -1,10 +1,11 @@
 const express = require('express')
 const app = express()
-const puerto = 80
+const puerto = 3000
 
 const estudiantes = [
     {id: 1, nombre: 'Hernan', apellido: 'Metaute'},
-    {id: 2, nombre: 'Liliana', apelllido: 'Franco'}
+    {id: 2, nombre: 'Liliana', apelllido: 'Franco'},
+    {id: 3, nombre: 'Juangui', apelllido: 'Ramirez'}
 ]
 
 app.get('/estudiantes', (request, response) => {
