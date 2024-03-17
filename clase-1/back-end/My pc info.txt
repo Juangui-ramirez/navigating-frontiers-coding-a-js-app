@@ -1,0 +1,8 @@
+{
+  "pcname": "PC-ZEUS",
+  "totalram": "15.82 GB",
+  "freeram": "9.58 GB",
+  "cpumodel": "Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz",
+  "cpuspeed": "3492 MHz",
+  "opsystem": "Windows_NT"
+}
